@@ -10,15 +10,15 @@ class Simpleprogram
 		int a=sc.nextInt();
 		if(a==0)
 		{
-			System.out.println("zero");
+			System.out.println("Zero");
 		}
 		else if(a>0)
 		{
-			System.out.println("positive value");
+			System.out.println("Positive");
 		}
 		else
 		{
-			System.out.println("negative value");
+			System.out.println("Negative");
 		}
 	}
 } 
