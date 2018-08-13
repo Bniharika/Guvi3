@@ -15,7 +15,7 @@ class Ideone
 		int input=n;
 		while(input !=0)
 		{
-			int lastdigit=n%10;
+			int lastdigit=input%10;
 			sum +=lastdigit;
 			input /=10;
 		}
