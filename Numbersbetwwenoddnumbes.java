@@ -14,7 +14,7 @@ class Ideone
 		int r=sc.nextInt();
 		for(int i=l;i<=r;i++)
 		{
-			if(i%2==1)
+			if(i%2!=0)
 			System.out.print(i+" ");
 		}
 	}
