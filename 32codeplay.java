@@ -20,7 +20,7 @@ class Ideone
 		{
 			if(a[i]==k)
 			{
-			System.out.print("yes");
+			System.out.print("Yes");
 			count=0;
 			break;
 			}
@@ -28,7 +28,7 @@ class Ideone
 			count=1;
 		}
 		if(count==1)
-		System.out.print("no");
+		System.out.print("No");
 		
 	}
 }
